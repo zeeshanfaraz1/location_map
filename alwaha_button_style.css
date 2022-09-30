@@ -1842,7 +1842,7 @@ button {
     transform: scale(1);
 }
 /* 11 */
-.btn-25 {
+.btn-34 {
     border: none;
     background: rgb(251, 33, 117);
     background: linear-gradient(0deg, rgba(251, 33, 117, 1) 0%, rgba(234, 76, 137, 1) 100%);
@@ -1850,12 +1850,12 @@ button {
     overflow: hidden;
 }
 
-.btn-25:hover {
+.btn-34:hover {
     text-decoration: none;
     color: #fff;
 }
 
-.btn-25:before {
+.btn-34:before {
     position: absolute;
     content: '';
     display: inline-block;
@@ -1867,11 +1867,11 @@ button {
     animation: shiny-btn1 3s ease-in-out infinite;
 }
 
-.btn-25:hover {
+.btn-34:hover {
     opacity: .7;
 }
 
-.btn-25:active {
+.btn-34:active {
     box-shadow: 4px 4px 6px 0 rgba(255, 255, 255, .3),
         -4px -4px 6px 0 rgba(116, 125, 136, .2),
         inset -4px -4px 6px 0 rgba(255, 255, 255, .2),
